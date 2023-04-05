@@ -1,6 +1,6 @@
 <h1 align="center"> Kyle Parks - Full Stack Developer </h1>
 
-<div align="center">
+<div>
   <p align="center">
   <a href="https://www.instagram.com/kcparks33/">Instagram</a> •
   <a href="https://www.linkedin.com/in/kyle-parks-b0a74017b/">Linkedin</a> •
@@ -8,10 +8,9 @@
   </p>
 </div>
 
-# About me
+<h2 align="center">About me</h2>
 
-Hello!
-
+<p align="center">Hello!</p>
 
 ## Languages
 
@@ -32,4 +31,3 @@ Hello!
 <div align="center">
   <img src="https://github.com/Goobber33/Goobber33/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
-

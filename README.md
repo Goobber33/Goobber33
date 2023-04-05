@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label="/>
 </p>
 
-
-![snake animation](https://github.com/Goobber33/Goobber33/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/Goobber33/Goobber33/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
 

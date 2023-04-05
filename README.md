@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label="/>
 </p>
 
-<p align="center">
+<p align="center"> 
   <a href="https://github.com/Goobber33/github-readme-stats">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Goobber33&theme=dark&hide_rank=true" alt="Kyle's GitHub stats"/>
   </a>

@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.instagram.com/kcparks33/">Instagram</a> •
+  <a href="https://www.instagram.com/kcparks33/_blank">Instagram</a> •
   <a href="https://www.linkedin.com/in/kyle-parks-b0a74017b/">Linkedin</a> •
   <a href="mailto:kcparks1234@gmail.com">E-mail</a>
 </p>

@@ -30,7 +30,7 @@
   <a href="https://github.com/Goobber33/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Goobber33&theme=dark" alt="Kyle's GitHub stats" />
   </a>
-  <a href="https://github.com/Goobber33/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goobber33&layout=compact&theme=dark" alt="Top Langs" />
   </a>
 </p>

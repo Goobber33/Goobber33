@@ -12,7 +12,7 @@
 
 <p align="center">Hello!</p>
 
-## Languages
+<h2 align="center">Languages</h2>
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label="/>

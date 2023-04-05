@@ -1,5 +1,5 @@
 <p>
-    https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat alt="React"/>
 </p>
 
 

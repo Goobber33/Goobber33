@@ -28,10 +28,10 @@
 
 <p align="center">
   <a href="https://github.com/Goobber33/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Goobber33&theme=dark&hide_rank=true" alt="Kyle's GitHub stats" height="195" width="400" />
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Goobber33&theme=dark&hide_rank=true" alt="Kyle's GitHub stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goobber33&layout=compact&theme=dark" alt="Top Langs" height="195" width="400" />
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goobber33&layout=compact&theme=dark" alt="Top Langs"/>
   </a>
 </p>
 

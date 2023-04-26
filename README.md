@@ -8,12 +8,11 @@
   </p>
 </div>
 
-![Alt text](https://gist.githubusercontent.com/Goobber33/6d8e3c24b3b4cfee0ac7db9334ccba42/raw/9b37a0ba90e14c99425868dd742d2422d7ff7774/kyle-parks.svg)
-
-
 <h2 align="center">About me</h2>
 
-<p align="center">Hello! My name is Kyle Parks, and I am a Full Stack Developer. I love to learn new technologies, and implement them in my projects. I am currently enrolled in the University of Washington's coding bootcamp where I am building my skills every day. Please take a look at my projects, and I am always available to reach at my social links!</p>
+<div align="center">
+  <img src="https://gist.githubusercontent.com/Goobber33/6d8e3c24b3b4cfee0ac7db9334ccba42/raw/9b37a0ba90e14c99425868dd742d2422d7ff7774/kyle-parks.svg" alt="Kyle Parks - Full Stack Developer"/>
+</div>
 
 <h2 align="center">Languages</h2>
 

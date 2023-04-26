@@ -8,6 +8,9 @@
   </p>
 </div>
 
+![Alt text](https://gist.githubusercontent.com/Goobber33/6d8e3c24b3b4cfee0ac7db9334ccba42/raw/a6b44030b2d568b636981d18fa87782ed2aa5784/.svg)
+
+
 <h2 align="center">About me</h2>
 
 <p align="center">Hello! My name is Kyle Parks, and I am a Full Stack Developer. I love to learn new technologies, and implement them in my projects. I am currently enrolled in the University of Washington's coding bootcamp where I am building my skills every day. Please take a look at my projects, and I am always available to reach at my social links!</p>

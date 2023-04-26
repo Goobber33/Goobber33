@@ -41,5 +41,5 @@
   <img src="https://github.com/Goobber33/Goobber33/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
-![GitHub README Carousel](https://Goobber33.github.io/Goobber33/carousel.html)
+![GitHub README Carousel](https://goobber33.github.io/Goobber33/carousel.html)
 

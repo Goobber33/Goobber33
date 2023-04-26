@@ -10,8 +10,8 @@
 
 <h2 align="center">About me</h2>
 
- <div align="center">
-  <img src="https://goobber33.github.io/Goobber33/term-sheet-1682529390780.svg"/>
+<div align="center">
+  <img src="https://goobber33.github.io/Goobber33/svg-wrapper.html?randomParam=<?= time(); ?>" alt="Kyle Parks - Full Stack Developer" />
 </div>
 
 <h2 align="center">Languages</h2>

@@ -11,7 +11,7 @@
 <h2 align="center">About me</h2>
 
  <div align="center">
-  <img src="https://gist.githubusercontent.com/Goobber33/6d8e3c24b3b4cfee0ac7db9334ccba42/raw/9b37a0ba90e14c99425868dd742d2422d7ff7774/kyle-parks.svg?v=1" alt="Kyle Parks - Full Stack Developer"/>
+  <img src="https://goobber33.github.io/Goobber33/term-sheet-1682529390780.svg"/>
 </div>
 
 <h2 align="center">Languages</h2>

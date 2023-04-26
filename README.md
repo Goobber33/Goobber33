@@ -10,9 +10,9 @@
 
 <h2 align="center">About me</h2>
 
-<div align="center">
-  <img src="https://goobber33.github.io/Goobber33/svg-wrapper.html?randomParam=<?= time(); ?>" alt="Kyle Parks - Full Stack Developer" />
-</div>
+<p>
+  Hello! My name is Kyle Parks, and I am a Full Stack Developer. I love to learn new technologies, and implement them in my projects. I am currently enrolled in the University of Washington's coding bootcamp, where I am building my skills every day. Please take a look at my projects, and I am always available to reach at my social links!
+</p>
 
 <h2 align="center">Languages</h2>
 

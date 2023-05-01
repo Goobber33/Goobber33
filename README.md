@@ -29,6 +29,8 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="/>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Handlebars.js&color=000000&logo=Handlebars.js&logoColor=FFFFFF&label="/>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label="/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label="/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label="/>
 </p>
 
 <p align="center"> 

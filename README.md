@@ -35,7 +35,7 @@
 
 <p align="center"> 
   <a href="https://github.com/Goobber33/github-readme-stats">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goobber33&langs_count=8&theme=dark" alt="Kyle's GitHub stats"/>
+    <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=goobber33&langs_count=8&theme=dark" alt="Kyle's GitHub stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Goobber33&layout=compact&theme=dark" alt="Top Langs"/>

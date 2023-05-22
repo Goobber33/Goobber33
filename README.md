@@ -35,15 +35,12 @@
 </p>
 
 <p align="center">
-  
   <a href="https://github.com/Goobber33/github-readme-stats">
-    <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Goobber33&theme=dark" alt="Kyle's GitHub stats" />
+    <img align="center" height="195em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Goobber33&theme=dark" alt="Kyle's GitHub stats" />
   </a>
-  
-<a href="https://github.com/Goobber33/github-readme-stats">
-  <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Goobber33&langs_count=5&layout=compact&hide=css,handlebars,html&theme=dark" alt="Top Langs" />
-</a>
-  
+  <a href="https://github.com/Goobber33/github-readme-stats">
+    <img align="center" height="195em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Goobber33&langs_count=5&layout=compact&hide=css,handlebars,html&theme=dark" alt="Top Langs" />
+  </a>
 </p>
 
 <div align="center">

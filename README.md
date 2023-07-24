@@ -8,7 +8,7 @@
   <a href="https://kylecparks.com">kylecparks.com</a>
   </p>
 </div>
-  
+   
 <h2 align="center">About me</h2>
 
 <p align="center">

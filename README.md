@@ -43,6 +43,3 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github.com/Goobber33/Goobber33/blob/output/github-user-contribution%20(3).svg" alt="snake animation"/>
-</div>

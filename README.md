@@ -1,4 +1,4 @@
-<h1 align="center"> Kyle Parks - Full Stack Developer </h1>
+<h1 align="center"> Kyle Parks - Software Engineer </h1>
 
 <div>
   <p align="center">
